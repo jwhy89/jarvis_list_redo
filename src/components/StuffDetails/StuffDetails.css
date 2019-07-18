@@ -1,0 +1,13 @@
+.edit-buttons {
+    display: flex
+}
+
+.update-button {
+    padding-right: 10px
+}
+/* 
+.cancel-button {
+    float: right;
+    position: relative;
+    align-content: flex-end
+} */
